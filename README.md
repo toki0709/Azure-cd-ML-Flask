@@ -5,8 +5,9 @@
 ## Project Plan
 <TODO: Project Plan
 
-* A link to a Trello board for the project
-* A link to a spreadsheet that includes the original and final project plan>
+* [A link to a Trello board for the project](https://trello.com/b/B4iTwuwD)
+* [A link to project management spreadsheet](https://github.com/toki0709/Azure-cd-ML-Flask/files/9433297/project-management-template.xlsx)
+
 	
 ## Instructions
 
