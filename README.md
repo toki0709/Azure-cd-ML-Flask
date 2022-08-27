@@ -1,6 +1,5 @@
 # Overview
 
-<TODO: complete this with an overview of your project>
 
 ## Project Plan
 <TODO: Project Plan
@@ -21,7 +20,6 @@
 	![arc app](https://user-images.githubusercontent.com/61994831/186885789-bdc498dc-b1f3-4f18-b6f5-ed57016c5017.jpg)
 
 
-<TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
 * Log into azure and click on cloud shell and select bash.
 * generate SSH key and add it to github account.
 * Clone Git repository 
@@ -73,8 +71,8 @@ The output should look similar to this:
 ## Enhancements
 	- Look into python library version. Some libraries might be deprecated.
 	
-## Demo 
+## Project Demo 
 
-<TODO: Add link Screencast on YouTube>
+<https://youtu.be/ETNZ9JmuueU>
 
 
